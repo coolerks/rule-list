@@ -25,8 +25,8 @@ HOST-SUFFIX,identrust.com,OpenAI
 HOST-SUFFIX,intercom.io,OpenAI
 HOST-SUFFIX,intercomcdn.com,OpenAI
 HOST-SUFFIX,launchdarkly.com,OpenAI
-HOST-SUFFIX,oaistatic.com,
-HOST-SUFFIX,chatgpt.com,
+HOST-SUFFIX,oaistatic.com,OpenAI
+HOST-SUFFIX,chatgpt.com,OpenAI
 HOST-SUFFIX,oaiusercontent.com,OpenAI
 HOST-SUFFIX,observeit.net,OpenAI
 HOST-SUFFIX,poe.com,OpenAI
